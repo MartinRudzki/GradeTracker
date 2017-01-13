@@ -1,1 +1,1 @@
-# GradeTracker
+# Grade Tracker
