@@ -1,1 +1,3 @@
-# Grade Tracker
+#GradeTracker
+Notes:
+-Getting everything setup.
